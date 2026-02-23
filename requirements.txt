@@ -1,0 +1,5 @@
+textblob
+unidecode
+sentence-transformers
+scikit-learn
+matplotlib
